@@ -33,9 +33,9 @@ The dataset used in this dashboard consists of Netflix titles, including metadat
 - Enhancing the **geographical representation** with more interactive features.  
 
 ## 👤 Author  
-**[Your Name]**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile (if applicable)]  
+**C Sai Rithvik Reddy**
+  
+  Mail id : sairithvikc@gmail.com
 
 ---
 
