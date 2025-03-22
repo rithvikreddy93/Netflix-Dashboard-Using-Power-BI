@@ -19,8 +19,7 @@ The dataset used in this dashboard consists of Netflix titles, including metadat
 
 ## 🛠️ Tools & Technologies  
 - **Power BI Desktop** - For data visualization and dashboard creation.  
-- **DAX (Data Analysis Expressions)** - Used for calculations and data manipulation.  
-- **SQL/Python (if applicable)** - Used for pre-processing and transforming the dataset before importing it into Power BI.  
+- **DAX (Data Analysis Expressions)** - Used for calculations and data manipulation.   
 
 ## 🚀 Usage  
 1. Clone this repository and open the Power BI dashboard file (`.pbix`) in **Power BI Desktop**.  
